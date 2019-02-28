@@ -1,0 +1,10 @@
+https://openweathermap.org - данные о погоде. есть api, результат в JSON
+https://openi.nlm.nih.gov - данные по биомедицинским изображениям. есть api, результат в JSON
+https://www.hotslogs.com - данные по статистике игроков/карт/героев в Heroes of the Storm. есть api, результат в JSON, но дают мало значительно меньше информации, чем есть на сайте.
+https://www.ncbi.nlm.nih.gov - биомедицинские статьи и изображения. есть api, результат в XML или JSON
+https://apidata.mos.ru -  открытые данные города Москвы. есть api, результат в JSON
+https://api.hh.ru/ - данные пор вакансиям и компаниям. есть api, результат в JSON
+https://vk.com/ - соц. сеть. есть api, результат в JSON
+https://api.worldoftanks.ru/ - данные об игроках World of Tanks. есть api, результат в JSON
+https://www.kinopoisk.ru/ - данные о фильмах, актерах и пр. Api нет, парсинг HTML
+https://habr.com/ - платформа, посвещенная IT. Есть api
